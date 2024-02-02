@@ -5,12 +5,7 @@ import java.sql.ResultSet;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 
-/*
- * Document: Account.java
- * Unitec Institute of Technology
- * @authors Natasha Bettridge, Taylor Tran and Michael Yin
- * Document: Contains the Create account form information from pt 3
- */
+//project is created by SURAJ KUMAR
 public class Account extends javax.swing.JFrame {
 Connection conn;
 ResultSet rs;

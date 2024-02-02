@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Natas
+ * @project is created by SURAJ KUMAR
  */
 class UIManager {
 

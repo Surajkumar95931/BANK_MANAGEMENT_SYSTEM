@@ -4,19 +4,9 @@ import java.sql.ResultSet;
 import javax.swing.JOptionPane;
 import javax.swing.UIManager;
 
-/*
- * Document: Authentication.java
- * Unitec Institute of Technology
- * @authors Natasha Bettridge, Taylor Tran and Michael Yin
- * Document: Contains the login from pt 1 and 2 and the actual coding watch pt 5
- *           Go straight to the public static void section to see where i added
- *            J tattoo in the file an add the code. Code added by Michael Yin.. 
- */
 
-/**
- *
- * @author Natasha Bettridge, Taylor Tran, Michael Yin
- */
+
+//project is created by SURAJ KUMAR
 
 public class Authentication extends javax.swing.JFrame {
 Connection conn;

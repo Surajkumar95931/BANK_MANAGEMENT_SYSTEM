@@ -7,17 +7,7 @@ import java.util.GregorianCalendar;
 import javax.swing.JOptionPane;
 import net.proteanit.sql.DbUtils;
 
-/*
- * Document: MyPage.java
- * Unitec Institute of Technology
- * @authors Natasha Bettridge, Taylor Tran and Michael Yin
- * Document: contains home page 
- */
-
-/**
- *
- * @author Natasha Bettridge, Taylor Tran, Michael Yin
- */
+//project is created by SURAJ KUMAR
 public class MyPage extends javax.swing.JFrame {
 Connection conn;
 ResultSet rs;

@@ -3,17 +3,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import javax.swing.*;
-/*
- * Document: Loading.java
- * Unitec Institute of Technology
- * @authors Natasha Bettridge, Taylor Tran and Michael Yin
- * Document: Contains the Create account form information from pt 4
- */
-
-/**
- *
- * @author Natasha Bettridge, Taylor Tran, Michael Yin
- */
+//project is created by SURAJ KUMAR
 public class Loading extends javax.swing.JFrame implements Runnable {
 Connection conn;
 ResultSet rs;
